@@ -107,3 +107,9 @@ div#give
  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
 }
+div.image
+{
+    float: left;
+    width: max-content;
+    height: max-content;
+}
